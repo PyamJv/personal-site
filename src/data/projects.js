@@ -20,8 +20,7 @@ const data = [
     date: '2014-011-23',
     desc:
       'Game ready asset '
-      + 'Fun little project that was used to test my modeling skills '
-      
+      + 'Fun little project that was used to test my modeling skills.',
   },
   {
     title: 'Gun Robot',
@@ -30,8 +29,7 @@ const data = [
     image: '/images/projects/Robot Pic 1.jpg',
     date: '2024-11-28',
     desc:
-      'A practice model used to learn Blender'
-      
+      'A practice model used to learn Blender',
   },
   {
     title: 'Watchers Axe',
@@ -39,8 +37,7 @@ const data = [
     image: '/images/projects/Axe.jpg',
     date: '2023-05-15',
     desc:
-      'The personal weapon of the Captin General "The Watchers Axe '
-     
+      'The personal weapon of the Captin General "The Watchers Axe ',
   },
 ];
 
