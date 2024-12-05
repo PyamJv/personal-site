@@ -22,13 +22,12 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Michael. I am a{' '}
-        <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC
-        alumnus, and the co-founder and CTO of{' '}
-        <a href="https://promptfoo.dev">Promptfoo</a>. Previously, I
-        was VP of Engineering at <a href="https://usesmileid.com">SmileID</a>,
-        co-founder and CTO of <a href="https://arthena.com">Arthena</a>, and
-        co-founded <a href="https://matroid.com">Matroid</a>.
+        Hi, I am Payaam. I am a{' '}
+        <a href="https://www.yorku.ca">York University</a> graduate, and the co-founder and CEO of{' '}
+        <a href="TBD">Perpetual Hill Studios</a>. Previously, I
+        was Student head of game design at <a href="https://create.torontofilmschool.ca">Toronto Film School</a>,
+        Game Designer for several projects including the TFS Capstone <a href="https://arthena.com">Arthena</a>, and
+        Freelancing and contracting as a 3D Modeler.
       </p>
       <ul className="actions">
         <li>
@@ -48,7 +47,7 @@ const SideBar = () => (
     <section id="footer">
       <ContactIcons />
       <p className="copyright">
-        &copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.
+        &copy; Payaam Javid <Link to="/">https://pyamjv.github.io/personal-site/</Link>.
       </p>
     </section>
   </section>
