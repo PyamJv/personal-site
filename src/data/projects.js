@@ -4,7 +4,7 @@ const data = [
     title: 'Grav Gun',
     subtitle: 'Warhammer 40000',
     link: 'https://www.artstation.com/artwork/98303O',
-    image: '/images/projects/Grav.jpg',
+    image: '/images/projects/Grav.JPG',
     date: '2024-11-20',
     desc:
       'Game Ready Grav Gun from Warhammer 40000. '
@@ -16,7 +16,7 @@ const data = [
     title: 'Camper RV',
     subtitle: 'Game ready assets',
     link: 'https://www.artstation.com/artwork/zx5836',
-    image: '/images/projects/RV pic.jpg',
+    image: '/images/projects/RVpic.JPG',
     date: '2014-011-23',
     desc:
       'Game ready asset '
@@ -26,7 +26,7 @@ const data = [
     title: 'Gun Robot',
     subtitle: 'Blender Practice.',
     link: 'https://www.artstation.com/artwork/rlOxD5',
-    image: '/images/projects/Robot Pic 1.jpg',
+    image: '/images/projects/RobotPic1.JPG',
     date: '2024-11-28',
     desc:
       'A practice model used to learn Blender',
@@ -34,6 +34,7 @@ const data = [
   {
     title: 'Watchers Axe',
     subtitle: 'Warhammer 40000 Adeptus Custodes',
+    link: 'https://www.artstation.com/artwork/w0Xno6',
     image: '/images/projects/Axe.jpg',
     date: '2023-05-15',
     desc:
