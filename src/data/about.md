@@ -15,7 +15,7 @@ Hi, I am Payaam. I am a York University graduate, and the co-founder and CEO of 
 
 # Travel / Geography
 
-- My Ethinc Background is Persian but I was born in austin Texas USA, but have lived in canada all mylife
+- My Ethinc Background is Persian but I was born in Austin Texas USA, but have lived in Canada all mylife
 - I have been all over the world with my family mostly with my mom
 - In North America I have to a couple states (florida,vermont,Massachusetts) and I have traveled across canada except for britsh columbia, and have been to pacific and atlantic side of mexcio
 - In Europe I have been to: England, France, Germany, Poland, Chech Republic, Greece, Turkey, Italy, Spain
