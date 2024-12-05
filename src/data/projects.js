@@ -1,47 +1,46 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Grav Gun',
+    subtitle: 'Warhammer 40000',
+    link: 'https://www.artstation.com/artwork/98303O',
+    image: '/images/projects/Grav.jpg',
+    date: '2024-11-20',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Game Ready Grav Gun from Warhammer 40000. '
+      + 'One of my favorite weapons of the adepts astartes, '
+      + 'Used to destroy vehicles by atomizing them  '
+      + 'a unqiue weapon used by Tatical squads.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'Camper RV',
+    subtitle: 'Game ready assets',
+    link: 'https://www.artstation.com/artwork/zx5836',
+    image: '/images/projects/RV pic.jpg',
+    date: '2014-011-23',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Game ready asset '
+      + 'Fun little project that was used to test my modeling skills '
+      
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'Gun Robot',
+    subtitle: 'Blender Practice.',
+    link: 'https://www.artstation.com/artwork/rlOxD5',
+    image: '/images/projects/Robot Pic 1.jpg',
+    date: '2024-11-28',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'A practice model used to learn Blender'
+      
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'Watchers Axe',
+    subtitle: 'Warhammer 40000 Adeptus Custodes',
+    image: '/images/projects/Axe.jpg',
+    date: '2023-05-15',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'The personal weapon of the Captin General "The Watchers Axe '
+     
   },
 ];
 
