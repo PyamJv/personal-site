@@ -26,7 +26,7 @@ const SideBar = () => (
         <a href="https://www.yorku.ca">York University</a> graduate, and the co-founder and CEO of{' '}
         <a href="TBD">Perpetual Hill Studios</a>. Previously, I
         was Student head of game design at <a href="https://create.torontofilmschool.ca">Toronto Film School</a>,
-        Game Designer for several projects including the TFS Capstone <a href="https://arthena.com">Arthena</a>, and
+        Game Designer for several projects including the TFS Capstone, and
         Freelancing and contracting as a 3D Modeler.
       </p>
       <ul className="actions">
