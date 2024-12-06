@@ -10,14 +10,14 @@ const data = [
       'Game Ready Grav Gun from Warhammer 40000. '
       + 'One of my favorite weapons of the adepts astartes, '
       + 'Used to destroy vehicles by atomizing them  '
-      + 'a unqiue weapon used by Tatical squads.',
+      + 'a unqiue weapon used by Tactical squads.',
   },
   {
     title: 'Camper RV',
     subtitle: 'Game ready assets',
     link: 'https://www.artstation.com/artwork/zx5836',
     image: '/images/projects/RVpic.JPG',
-    date: '2014-011-23',
+    date: '2024-011-23',
     desc:
       'Game ready asset '
       + 'Fun little project that was used to test my modeling skills.',
